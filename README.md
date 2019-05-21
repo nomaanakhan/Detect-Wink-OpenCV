@@ -11,10 +11,10 @@ DetectWink1 detects 22 winks on the sample pictures.
 
 DetectWink2 detects 15 winks on the sample pictures.
 
-## To Run
+### To Run
 
-On Pictures
+On Pictures \n
 python DetectWink1 folder_name 
 
-On a User's Camera Video
+On a User's Camera Video \n
 python DetectWink1
