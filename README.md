@@ -10,3 +10,11 @@ For my approach I modified the cascade detection values for eyes to be larger. I
 DetectWink1 detects 22 winks on the sample pictures.
 
 DetectWink2 detects 15 winks on the sample pictures.
+
+## To Run
+
+On Pictures
+python DetectWink1 folder_name 
+
+On a User's Camera Video
+python DetectWink1
